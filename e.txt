@@ -1,0 +1,11 @@
+1.git config --global user.name gitHub
+2.git config --global user.email bandigowda76@gmail.com
+3.cd D:/github
+4.git init
+5.git status
+6.git commit -m ".."
+7.git log
+8.git remote add origin https://github.com/BandiGowda/github.git
+9.git push origin master
+10.git pull origin master
+11.git clone https://github.com/BandiGowda/cybersecurity
